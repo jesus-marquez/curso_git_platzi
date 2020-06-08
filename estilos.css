@@ -5,6 +5,7 @@ body{
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: rgb(48, 48, 68);
 }
 #cabecera{
     background-color: blue;
@@ -21,8 +22,10 @@ body{
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: springgreen;
 }
 #container h1{
     font-size: 20px;
+    background-color: seagreen;
 }
 
